@@ -1,3 +1,0 @@
-MongoDB
-Username: kyuhong-cho
-PW: root 
